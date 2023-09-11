@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Grades</string>
+    <string name="nome_botao">Calculate</string>
+    <string name="nota_2">First grade</string>
+    <string name="nota_1">Second grade</string>
+</resources>
